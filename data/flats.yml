@@ -1,0 +1,21 @@
+hmdf :
+  name: "Hortense's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 10
+tiphanietourniaire:
+  name: "Tiphanie's home"
+  description: "Small flat in Lyon"
+  city_name: "Lyon, France"
+  city_slug: "lyon"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5

@@ -1,0 +1,44 @@
+p {
+  font-size: 30px;
+}
+
+.flat_banner {
+  color: $white;
+  text-align: center;
+  height: 50vh;
+  background-position: center;
+  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  background-size: cover !important;
+}
+
+.flat_avatar {
+  width: 70px;
+  length: 70px;
+  border-radius: 50%;
+}
+
+
+.header_flat {
+  background: white;
+  margin: 10px;
+}
+
+.form {
+  background: #F4F4F4;
+  padding: 15px;
+  display: block;
+}
+
+.header_flat {
+  h1 {
+    font-size: 20px;
+  }
+  p {
+    font-size: 14px;
+    line-height: 10px;
+  }
+
+  a {
+    font-size: 12px;
+  }
+}
